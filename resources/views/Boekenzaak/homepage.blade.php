@@ -13,7 +13,7 @@
             <a href="#" class="text-white font-semibold">Home</a>
             <a href="#" class="text-white font-semibold">Boeken</a>
             <a href="#" class="text-white font-semibold">Contact</a>
-            <a href="account" class="text-white font-semibold">Account</a>
+            <a href="login" class="text-white font-semibold">Account</a>
         </nav>
     </header>
     <div class="h-[20%] w-full flex flex-col items-center justify-start pt-6">

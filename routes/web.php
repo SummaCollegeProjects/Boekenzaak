@@ -10,6 +10,10 @@ Route::get('/Boekenzaak/homepage', function () {
     return view('Boekenzaak/homepage');
 });
 
-Route::get('/Boekenzaak/account', function () {
-    return view('Boekenzaak/account');
+Route::get('/Boekenzaak/login', function () {
+    return view('Boekenzaak/login');
+});
+
+Route::get('/Boekenzaak/createAccount', function () {
+    return view('Boekenzaak/createAccount');
 });
