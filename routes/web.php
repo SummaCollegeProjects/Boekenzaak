@@ -8,6 +8,8 @@ Route::get('/', function () {
 
 Route::get('/Boekenzaak/homepage', function () {
     return view('Boekenzaak/homepage');
+
+    
 });
 
 Route::get('/Boekenzaak/login', function () {
